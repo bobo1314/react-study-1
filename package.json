@@ -16,6 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://bobo1314.github.io/react-study-1/build"
   "eslintConfig": {
     "extends": "react-app"
   },
