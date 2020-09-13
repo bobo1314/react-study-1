@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). "homepage": "https://bobo1314.github.io/react-study-1/build",
 
 ## Available Scripts
 
